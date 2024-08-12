@@ -6,7 +6,7 @@ fn main() {
     print("Hello, world!");
 }
 
-// a function that prints a message
+// a function that prints a good message
 fn print(m: &str) {
     println!("{m}");
 }
