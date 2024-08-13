@@ -7,6 +7,7 @@ fn main() {
 }
 
 // a function that prints a good message
+// what
 fn print(m: &str) {
     println!("{m}");
 }
